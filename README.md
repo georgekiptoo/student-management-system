@@ -57,7 +57,7 @@ java -cp out;sqlite-jdbc-3.51.3.0.jar Main
 > **Cerințe:** Java 11 sau mai nou instalat pe sistem.
 
 ## 📷 Capturi de ecran
-*(Adaugă capturi de ecran ale aplicației în rulare)*
+<img src="screenshot.png" width="400"/>
 
 ## 💡 Ce am învățat
 - **Java Swing & GUI**: Am construit o interfață grafică completă folosind `JFrame`, `JTable`, `JPanel` și layout managers pentru organizarea componentelor vizual.
