@@ -36,8 +36,5 @@ java -cp out;sqlite-jdbc-3.51.3.0.jar Main
 ```
 
 ## Notes
-- Data is saved automatically in `students.db`
-- Demo data is inserted automatically on first run
-
-## Author
-George K. — CS2 Final Project — May 2025
+Data is saved automatically in `students.db`
+Demo data is inserted automatically on first run
